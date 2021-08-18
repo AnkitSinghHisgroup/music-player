@@ -1,0 +1,11 @@
+export const ADD_ITEM = "ADD_ITEM";
+export const ADD_SONGS = "ADD_SONGS";
+export const LOADER_ON = "LOADER_ON";
+export const LOADER_OFF = "LOADER_OFF";
+export const TEST_FETCH_1 = "TEST_FETCH_1";
+export const TEST_FAIL = "TEST_FAIL";
+export const TEST_PASS = "TEST_PASS";
+export const GET_ERROR = "GET_ERROR";
+export const FETCH_SONGS = "FETCH_SONGS";
+export const SEARCH_SONGS = "SEARCH_SONGS";
+export const ADD_SEARCH_SONG = "ADD_SEARCH_SONG";
