@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ca2fea00.chunk.css",
+    "main.js": "/static/js/main.a87178d0.chunk.js",
+    "main.js.map": "/static/js/main.a87178d0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3784ebb6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3784ebb6.js.map",
+    "static/css/2.4be38407.chunk.css": "/static/css/2.4be38407.chunk.css",
+    "static/js/2.853e2e19.chunk.js": "/static/js/2.853e2e19.chunk.js",
+    "static/js/2.853e2e19.chunk.js.map": "/static/js/2.853e2e19.chunk.js.map",
+    "static/js/3.946efe73.chunk.js": "/static/js/3.946efe73.chunk.js",
+    "static/js/3.946efe73.chunk.js.map": "/static/js/3.946efe73.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.ca2fea00.chunk.css.map": "/static/css/main.ca2fea00.chunk.css.map",
+    "static/js/2.853e2e19.chunk.js.LICENSE.txt": "/static/js/2.853e2e19.chunk.js.LICENSE.txt",
+    "static/media/01.7b2d9224.mp3": "/static/media/01.7b2d9224.mp3",
+    "static/media/LetsSee.bdec4321.jpg": "/static/media/LetsSee.bdec4321.jpg",
+    "static/media/active_loop.711a7af2.svg": "/static/media/active_loop.711a7af2.svg",
+    "static/media/active_shuffle.1e3dcd32.svg": "/static/media/active_shuffle.1e3dcd32.svg",
+    "static/media/addmusic.80faefd2.svg": "/static/media/addmusic.80faefd2.svg",
+    "static/media/forward10.e2e4590a.svg": "/static/media/forward10.e2e4590a.svg",
+    "static/media/intro.ef414555.gif": "/static/media/intro.ef414555.gif",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg",
+    "static/media/logo.ae7962c6.svg": "/static/media/logo.ae7962c6.svg",
+    "static/media/loop.046f4bdb.svg": "/static/media/loop.046f4bdb.svg",
+    "static/media/music_icon.87ef3a09.svg": "/static/media/music_icon.87ef3a09.svg",
+    "static/media/playlist_2.736b19b7.svg": "/static/media/playlist_2.736b19b7.svg",
+    "static/media/prev10.7aaa8ecf.svg": "/static/media/prev10.7aaa8ecf.svg",
+    "static/media/previous.c7cf7c24.svg": "/static/media/previous.c7cf7c24.svg",
+    "static/media/shuffle.454c483e.svg": "/static/media/shuffle.454c483e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3784ebb6.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.853e2e19.chunk.js",
+    "static/css/main.ca2fea00.chunk.css",
+    "static/js/main.a87178d0.chunk.js"
+  ]
+}
